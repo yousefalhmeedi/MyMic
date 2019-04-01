@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMic</string>
+    <string name="action_email" translatable="false">email</string>
+    <string name="action_ShareTxt" translatable="false">Share Application</string>
+    <string name="action_Image" translatable="false">Image</string>
+    <string name="title_activity_vedio" translatable="false">Lesson</string>
+
+</resources>
